@@ -52,7 +52,6 @@ public class ServiceController {
                 int count = 0;
 
                 while (matcher.find() && count < 6) {
-
                     String link = matcher.group(1);
 
                     String title = matcher.group(2);
@@ -64,8 +63,6 @@ public class ServiceController {
                     story.put("title", title);
                     story.put("link", link);
                     result.add(story);
-
-
                     count++;
 
                 }

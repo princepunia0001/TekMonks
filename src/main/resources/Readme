@@ -1,0 +1,8 @@
+In this First we Fetch All The Html On the Web Site then Convert Every Thing Into The String
+and then we use the Voice because the yellow box is not present the website is update
+
+Voice is the best match i founded on the site
+then i Reduce the search space so can i search the content on the in some range
+after that we the regx to find the best match
+i create the two group first for the link and second for the tittle
+then append to the map at the append to the result which is the list
